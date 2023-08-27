@@ -24,5 +24,5 @@ genre는 {'발라드': 0, '록/메탈': 1, '댄스': 2, 'POP': 4,'R&B/Soul': 5, 
 - AIKUTHON_김지영오윤진.pdf: 대회 발표 자료
 
 4. 모델 소개
-Baseline Model: koBERT (https://huggingface.co/monologg/kobert)
-Tokenizer: https://github.com/monologg/KoBERT-Transformers
+- Baseline Model: koBERT (https://huggingface.co/monologg/kobert)
+- Tokenizer: https://github.com/monologg/KoBERT-Transformers
